@@ -1,6 +1,5 @@
-## Hi there 👋
-
-# My name is Aleksandra Sergeeva
+# Hi there 👋
+## My name is Aleksandra Sergeeva
 
 - 🔭 I’m currently working on becoming a skillful DevOps
 - 🌱 I’m currently learning different cloud technologies
