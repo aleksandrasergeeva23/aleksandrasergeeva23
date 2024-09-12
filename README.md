@@ -1,5 +1,5 @@
 # Hi there 👋
-## I am a Junior DevOps Engineer Aleksandra Sergeeva
+## I am a DevOps Engineer Aleksandra
 
 - 🔭 I’m currently working on becoming a skillful DevOps
 - 🌱 I’m currently learning different cloud technologies
